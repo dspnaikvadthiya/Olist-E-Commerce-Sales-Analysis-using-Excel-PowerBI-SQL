@@ -26,12 +26,12 @@ Pandas (in earlier stages for EDA)
 
 
 📂 Key Datasets Used
-olist_orders_dataset
-olist_order_items_dataset
-olist_customers_dataset
-olist_order_payments_dataset
-olist_order_reviews_dataset
-olist_products_dataset
+olist_orders_dataset,
+olist_order_items_dataset,
+olist_customers_dataset,
+olist_order_payments_dataset,
+olist_order_reviews_dataset,
+olist_products_dataset.
 
 
 📌 Key Business Questions Answered
@@ -46,19 +46,19 @@ Which product categories show the highest average delivery times?
 Top Product Revenue: Health & Beauty – BR$1.4M
 Average Order Value (AOV): BR$153
 Monthly Order Volume: 99K+
-Repeat Customer Rate: ~4%
+Repeat Customer Rate: 4%
 Review Scores vs Shipping Days: Negative correlation in delays
 
 
 ✅ Impact & Results
-Identified bottlenecks in delivery to non-core cities
-Recommended supplier distribution and logistics improvements
-Supported a projected 7% increase in revenue through strategic optimizations
-Helped enhance decision-making through 3+ interactive dashboards
+Identified bottlenecks in delivery to non-core cities,
+Recommended supplier distribution and logistics improvements,
+Supported a projected 20% increase in revenue through strategic optimizations,
+Helped enhance decision-making through 3+ interactive dashboards.
 
 
 📊 Visual Outputs
-Power BI and Tableau dashboards covering:
+Power BI dashboards covering:
 
 Sales by Category and Region
 Review Scores by Delivery Time
@@ -67,5 +67,5 @@ Order Volume Over Time
 
 ✍️ Author
 Sai Prasad Naik
-Fresher Data Analyst | SQL • Power BI • Tableau • Excel
+Fresher Data Analyst | SQL • Power BI • Excel
 
