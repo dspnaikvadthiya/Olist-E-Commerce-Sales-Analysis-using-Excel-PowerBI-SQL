@@ -58,14 +58,10 @@ Helped enhance decision-making through 3+ interactive dashboards.
 
 
 📊 Visual Outputs
-Power BI dashboards covering:
+Power BI and Excel dashboards covering:
 
 Sales by Category and Region
 Review Scores by Delivery Time
 Payment Trends
 Order Volume Over Time
-
-✍️ Author
-Sai Prasad Naik
-Fresher Data Analyst | SQL • Power BI • Excel
 
